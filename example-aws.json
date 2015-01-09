@@ -1,0 +1,5 @@
+{
+  "key": "AMAZON_S3_KEY",
+  "secret": "AMAZON_S3_SECRET",
+  "bucket": "AMAZON_S3_BUCKET_NAME"
+}

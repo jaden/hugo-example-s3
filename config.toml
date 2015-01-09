@@ -1,0 +1,19 @@
+languageCode = "en-US"
+title = "Hugo S3 test site"
+theme = "twentyfourteen"
+disqusShortname = "foobar"
+
+[author]
+	primary = "Dan Hersam"
+
+[params]
+    Description = "An example web site built with Hugo"
+    FooBar = "testing 1 2 3"
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[permalinks]
+    post = "/:year/:slug"
+
