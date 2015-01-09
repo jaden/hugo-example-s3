@@ -1,3 +1,4 @@
 public
 node_modules
 aws.json
+.awspublish-hugotest-s3
